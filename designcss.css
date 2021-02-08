@@ -1,0 +1,89 @@
+body.bg{
+	background-image: url(images/bg.jpg);
+  	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+
+a.move{
+	margin-left: 30%;
+}
+
+a.move1{
+	margin-left: 5%;
+}
+
+a.move2{
+	margin-left: 25%;
+}
+
+h1.headerfonts{
+	font-family: 'Oswald', sans-serif;
+	margin-top: 50px;
+	margin-left: 35%;
+	font-size: 90px;
+
+}
+
+
+img.border{
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+}
+
+img.header1{
+	margin-left: -10px;
+	margin-top: -10px;
+	background-color: #e84a4a;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 600px;
+	padding-right: 640px;
+	opacity: 0.9;
+}
+
+div.text{
+	font-family: 'Oswald', sans-serif;	
+	font-size: 25px;
+	background-color: white;
+	outline-style: groove;
+	outline-color: black;
+	opacity: 0.8;
+	margin-left: 450px;
+	margin-top: -990px;
+	width: 30vw;
+	padding:10px;
+}
+
+div.text2{
+	font-family:'Oswald', sans-serif;	
+	font-size: 25px;
+	background-color: white;
+	outline-style: groove;
+	outline-color: black;
+	opacity: 0.8;
+	margin-left: 770px;
+	margin-top: 220px;
+	width: 25vw;
+	padding:10px;
+}
+
+button.button{
+  font-family: 'Oswald', sans-serif;
+  background-color: #d14134;
+  border: none;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 25px;
+  margin-left: 41%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+
+}
